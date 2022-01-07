@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seonmo-kang
-- 👀 I’m interested in JAVA Spring, Hibernate & React, Node.js, Express, MySQl, MongoDB
-- 🌱 I’m currently learning JAVA 
+- 👀 I’m interested in JAVA Spring, Hibernate & React, Node.js, Express, MySQl, MongoDB, postgreSQL
+- 🌱 I’m currently learning JAVA , Python Django
 - 📫 How to reach me ...
 
 <!---
@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Planning for 
-  1. Web application deploy by react, Node.js, Express, MySQL.
+  1. Web application build by Django, PostgreSQL.
   2. Algorithm study 
   3. Web application deploy by Spring, Hibernate.
