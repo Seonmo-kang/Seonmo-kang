@@ -3,8 +3,11 @@
 <div align=center>
   
  ***✨Introduction✨***
+  
   Hi! I'm Seonmo Kang.
+  
   I'm studying full stack development.
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonmo-kang%2FSeonmo-kang%2F&count_bg=%2323BCED&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=Hit&edge_flat=true)](https://hits.seeyoufarm.com)
   
